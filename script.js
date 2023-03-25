@@ -1,5 +1,5 @@
 const apikey = "66bd362c";
-const apiBaseUrl = "http://www.omdbapi.com";
+const apiBaseUrl = "https://www.omdbapi.com";
 const query = "all";
 const placeHolderIMage="https://cdn.dribbble.com/users/17914/screenshots/4902225/media/0d6d47739dae97adc81ca7076ee56cc9.png"
 // Placeholder to show if image is not available
